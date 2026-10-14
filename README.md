@@ -10,8 +10,8 @@ An analysis of how many people in South Australia attended educational instituti
 ## Key findings
 
 - **Attendance grew 2.8%**, from 483,361 people in 2016 to 496,860 in 2021.
-- **Tertiary attendance grew the most as a share of the total**, from 22.7% to 24.3% (+1.6 percentage points, 95% CI 1.4 to 1.8). University and higher education drove most of this.
-- **Preschool share rose** from 4.2% to 5.6% (+1.4 pp, 95% CI 1.3 to 1.5), which is consistent with growing enrolment at the early-childhood end.
+- **Tertiary attendance grew the most as a share of the total**, from 22.7% to 24.3% (+1.6 percentage points, 95% CI 1.4 to 1.8). Vocational (TAFE and private training) grew fastest in absolute terms, up 21% from 31,239 to 37,812 people, while university and higher education grew 5.7%.
+- **Preschool share rose** from 4.2% to 5.6% (+1.4 pp, 95% CI 1.3 to 1.5), which points to more early-childhood enrolment.
 - **Secondary share rose** from 19.3% to 20.6% (+1.4 pp, 95% CI 1.2 to 1.5).
 - **Female share slipped slightly**, from 51.1% to 50.8% (−0.25 pp, 95% CI −0.45 to −0.05, p = 0.014). This is statistically significant but small.
 - **Typical postcode grew.** The mean change per postcode was +40 people (95% CI +20 to +60, paired t-test p < 0.001). The result is robust to a non-parametric check (Wilcoxon p = 0.039), though the distribution is heavily skewed. 178 postcodes grew and 160 shrank.
